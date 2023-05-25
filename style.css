@@ -1,0 +1,53 @@
+@media screen and (max-width: 700px) {
+    .depcard{
+        padding: 20px;
+        border-radius: 15px;
+      }
+      .btnmain{
+        border-radius: 150px;
+        outline: none;
+        border: none;
+        width: 300px;
+      }
+      .btnmain2{
+        border-radius: 150px;
+      }
+      .h3a{
+        font-size: small;
+        font-weight: 700;
+      }
+      .pa{
+        font-size: xx-small;
+        font-weight: 500;
+      }
+}
+
+
+@media screen and (min-width: 700px) {
+    .depcard{
+        padding: 40px;
+        border-radius: 15px;
+        width: 800px;
+      }
+      .btnmain{
+        border-radius: 150px;
+        outline: none;
+        border: none;
+        width: 300px;
+      }
+      .btnmain2{
+        border-radius: 150px;
+      }
+}
+.nav1{
+  background-color: white;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.btn2{
+  padding: 5px;
+  width: 100%;
+}
